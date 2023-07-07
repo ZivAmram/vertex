@@ -1,0 +1,48 @@
+INFO:root:Starting server...
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+INFO:root:Received GET request
+2023-07-06 19:37:12,252 - Starting server...
+2023-07-06 19:37:45,012 - 2023-07-06 19:37:45 - Received GET request
+2023-07-06 19:37:45,060 - 2023-07-06 19:37:45 - Received GET request
+2023-07-06 19:37:45,756 - 2023-07-06 19:37:45 - Received GET request
+2023-07-06 19:37:45,804 - 2023-07-06 19:37:45 - Received GET request
+2023-07-06 19:37:45,990 - 2023-07-06 19:37:45 - Received GET request
+2023-07-06 19:37:46,037 - 2023-07-06 19:37:46 - Received GET request
+2023-07-06 19:37:46,205 - 2023-07-06 19:37:46 - Received GET request
+2023-07-06 19:37:46,253 - 2023-07-06 19:37:46 - Received GET request
+2023-07-06 19:37:46,419 - 2023-07-06 19:37:46 - Received GET request
+2023-07-06 19:37:46,467 - 2023-07-06 19:37:46 - Received GET request
+2023-07-07 07:02:35,821 - 2023-07-07 07:02:35 - Received GET request
+2023-07-07 07:02:35,890 - 2023-07-07 07:02:35 - Received GET request
+2023-07-07 07:02:37,342 - 2023-07-07 07:02:37 - Received GET request
+2023-07-07 07:02:37,390 - 2023-07-07 07:02:37 - Received GET request
+2023-07-07 07:16:27,935 - Starting server...
+2023-07-07 07:16:46,343 - 2023-07-07 10:16:46 - Received GET request
+2023-07-07 07:16:46,389 - 2023-07-07 10:16:46 - Received GET request
+2023-07-07 07:16:47,191 - 2023-07-07 10:16:47 - Received GET request
+2023-07-07 07:16:47,240 - 2023-07-07 10:16:47 - Received GET request
+2023-07-07 07:16:57,222 - 2023-07-07 10:16:57 - Received GET request
+2023-07-07 07:16:57,225 - 2023-07-07 10:16:57 - Received GET request
+2023-07-07 07:16:57,269 - 2023-07-07 10:16:57 - Received GET request
