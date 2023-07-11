@@ -6,7 +6,7 @@ from datetime import datetime
 import pytz
 
 LOG_FILENAME = '/app/logs/app.log'
-TIMEZONE = 'Asia/Tel_Aviv'  # Replace with your actual timezone
+TIMEZONE = 'Asia/Tel_Aviv'
 
 class RequestHandler(BaseHTTPRequestHandler):
     def do_GET(self):
@@ -23,11 +23,13 @@ def get_local_time():
     return local_time
 
 def run_server():
-    logging.basicConfig(filename=LOG_FILENAME, level=logging.INFO, format='%(asctime)s - %(message)s')
+    current_time = get_local_time()
+    logging.basicConfig(filename=LOG_FILENAME, level=logging.INFO, format=f'{current_time} - %(message)s')
     server_address = ('', 8080)
     httpd = HTTPServer(server_address, RequestHandler)
     logging.info('Starting server...')
     httpd.serve_forever()
+
 
 if __name__ == '__main__':
     run_server()
